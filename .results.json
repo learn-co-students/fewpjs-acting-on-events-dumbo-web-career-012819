@@ -1,0 +1,46 @@
+{
+  "stats": {
+    "suites": 2,
+    "tests": 2,
+    "passes": 2,
+    "pending": 0,
+    "failures": 0,
+    "start": "2019-03-12T02:51:43.748Z",
+    "end": "2019-03-12T02:51:44.313Z",
+    "duration": 565
+  },
+  "tests": [
+    {
+      "title": "moves the DODGER to the left",
+      "fullTitle": "moveDodgerLeft() moves the DODGER to the left",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "moves the DODGER to the right",
+      "fullTitle": "moveDodgerRight moves the DODGER to the right",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "moves the DODGER to the left",
+      "fullTitle": "moveDodgerLeft() moves the DODGER to the left",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "moves the DODGER to the right",
+      "fullTitle": "moveDodgerRight moves the DODGER to the right",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
